@@ -1,10 +1,7 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# MongoDB Commerce
+## Sobre ❓
+Nesse projeto, eu trabalhei com o banco de dados commerce, que contém dados do cardápio do McDonald's, como ingredientes, valores nutricionais e dados fictícios de vendas. Eu tive que resolver vários desafios desde querys simples as mais complexas.
+## Files: 📄
+Todos os arquivos estão na pasta `challenges`
+## Como rodar o projeto:
+- Esse projeto é para ver e analisar as querys que eu tive que desenvolver para diferentes desafios propostos pelo meu curso, não é um projeto executavel.
